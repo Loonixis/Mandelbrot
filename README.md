@@ -12,7 +12,7 @@ A small interactive Mandelbrot set explorer written in C using [raylib](https://
 - Reset the view
 
 ## Requirements
-
+- Linux works too
 - Windows
 - C compiler
 - raylib for Windows
